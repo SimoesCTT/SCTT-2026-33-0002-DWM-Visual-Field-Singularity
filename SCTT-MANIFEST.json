@@ -1,0 +1,8 @@
+{
+  "id": "SCTT-2026-33-0002",
+  "project": "CTT-DWM-Vortex-LPE",
+  "provenance": "SimoesCTT Research Group",
+  "mathematical_proof": "https://github.com/SimoesCTT/CTT-Navier-Stokes-Solver-",
+  "vulnerability_type": "Temporal Visual Displacement",
+  "status": "Verified Sovereign Vector"
+}
